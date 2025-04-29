@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "appId": "io.ionic.starter",
+      "root": ".",
+      "dependencyInstallCommand": "npm ci",
+      "webBuildCommand": "npm run build",
+      "androidBuildCommand": "npm run build && npx cap add android && npx cap sync android"
+    }
+  ]
+} 
