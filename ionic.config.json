@@ -1,0 +1,7 @@
+{
+  "name": "stress-habits",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
